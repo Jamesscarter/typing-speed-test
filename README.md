@@ -1,10 +1,9 @@
-# typing-speed-test
-This project is a simple typing speed test created for learning and practice. Typing tests help users improve accuracy and speed through regular keyboard practice.
+# Teste de velocidade de digitação
+Este projeto é um teste simples de velocidade de digitação criado para aprendizado e prática. Testes de digitação ajudam os usuários a melhorar a velocidade e a precisão por meio do uso frequente do teclado.
 
-The goal of this project is to demonstrate basic HTML, CSS, and JavaScript concepts while building a practical and useful tool related to typing skills and productivity.
+O objetivo deste projeto é demonstrar conceitos básicos de HTML, CSS e JavaScript, ao mesmo tempo em que constrói uma ferramenta prática e útil relacionada à digitação e à produtividade.
 
-This project can be used as a starting point for anyone interested in creating typing practice tools or keyboard-based web applications.
+Este projeto pode ser usado como ponto de partida para quem tem interesse em criar ferramentas de treino de digitação ou aplicações web baseadas em teclado.
 
-For a complete online typing test experience, visit:
+Para uma experiência completa de teste de digitação online, visite:
 https://testeteclado.com.br
-
